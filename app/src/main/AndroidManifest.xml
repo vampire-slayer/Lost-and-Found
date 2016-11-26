@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vishalsah.lostandfound">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fgh"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main3Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FoundActivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.FoundActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".signupactivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.signupactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".searchactivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.searchactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".viewsearch">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.viewsearch" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".profileactivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.profileactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.MainActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UploadImage">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.UploadImage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LostActivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.LostActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".viewreport">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.viewreport" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".editactivity">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.editactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".showimage">
+            <intent-filter>
+                <action android:name="com.vishalsah.lostandfound.showimage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+<RelativeLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.vishalsah.lostandfound.FoundActivity"
+    android:background="@drawable/ppppp">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText7"
+        android:hint="Item Name"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/textView13"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/textView2"
+        android:background="#afecc1a9" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Category :"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/editText7"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:background="#00ffffff"
+        android:textColor="#437142" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner2"
+        android:entries="@array/category"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/editText7"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignStart="@+id/button8" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText8"
+        android:layout_below="@+id/spinner2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentEnd="true"
+        android:hint="Brand"
+        android:background="#afecc1a9" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Date Found :"
+        android:id="@+id/textView9"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/editText8"
+        android:layout_alignParentStart="true"
+        android:textColor="#437142" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/textView10"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/editText8"
+        android:layout_alignParentEnd="true" />
+
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/datePicker2"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/textView10"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText13"
+        android:hint="Location Found"
+        android:layout_below="@+id/datePicker2"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/datePicker2"
+        android:background="#afecc1a9" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/editText14"
+        android:layout_below="@+id/editText13"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:layout_alignEnd="@+id/datePicker2"
+        android:hint="Description"
+        android:background="#afecc1a9" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next >>"
+        android:id="@+id/button8"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/editText14"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Report Found Item"
+        android:id="@+id/textView13"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignEnd="@+id/textView2"
+        android:background="#b2f1a8a8"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+
+</RelativeLayout>
+</ScrollView>

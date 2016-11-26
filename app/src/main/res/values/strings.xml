@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lost and Found!</string>
+    <string-array name="category">
+        <item>Electronics</item>
+        <item>Baggage/Luggage</item>
+        <item>Clothing</item>
+        <item>Jewelry</item>
+        <item>Sporting Goods</item>
+        <item>Toys</item>
+        <item>Identity Card</item>
+        <item>Books</item>
+        <item>Transportation</item>
+        <item>Personal accessories</item>
+        <item>Other</item>
+    </string-array>
+</resources>
