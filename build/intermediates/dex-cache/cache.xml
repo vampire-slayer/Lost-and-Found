@@ -2,283 +2,283 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.0_ebf3898f1f4eeadca1aac63d0f48ecb4af3962d0.jar" />
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_6b29687a075e501a15b19cc9908407c0a338d9c1\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.0_da7812a8734d1bb6efdf6f6ab64189540d5680fe.jar" />
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.1_280d68c6627d8523ed95c8eb02402dbb78921a08\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.0_1fdb83a0004d6e777827ed74f98be052b3d4e786.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_91ef11c9a180dde0bcafe31c7254116210afeace\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_739f143846197a7f7875d3a848303a35c1110606.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e4931d914f276690891337aff3cbbe33d14746f1\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_b7db9400e65d02a0473bcc83476100fd4c10dbe5.jar" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_830b7514360e3dafd72af1664cf875c6d9d2b410\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c73f0e25fbfac30d25219fe68faac02cf5540d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.1_e08358043806657f2b9a118f63edb74aaf2cdd4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_8eba872b181eb7e9f0d4c4a33d5ad042fb042c6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2791a743fc414a9989ac8ba382c6ef7b95d319df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_9f2aeda229576ed0f1118b9e8e4d0d1e02b5efc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_74e4f5789c687c183e94a5e3dfe4bfa7e0f6fd2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba6c1136634cf165529c5ff1fa802cf991164b2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_7dd115e1983a09adc21067e4d9a03c8ded964114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_998aa805485876252b328edbf3d182c6ff817bed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c212207de9d1df1fac1030a9230bcfee774e4503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7691016e6d67f55d7a4505123a255ea8c82b7f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9200c85ee6c290173d1e7363462286378dd9e09a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.1_535374812ce109b3d4207be79237791b66bf96f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_bf8b8ba61417a9201fad0cb425c971cbcf68c7cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.1_f81b23cd089010452535d6d9d87a47be1d79c9c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.1_d875192a5a3b923a0bd21dfac5d48590464578b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7e291fc8854d83611dcfce1fde993f5475bc5d28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.1_3c9331b1fc037b47114b21c9dba8571c0b4659d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.1_c0453e59ea79fe8f8d1da459ffa6391b74717926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5439667cfee3bbd445b64a08891e511ee854a021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="215b7b062c79c149b70956b83ee6df95bb701839">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\instant-run_c0a17a5c662c1d568cd202bb6cd645eae5b7a354.jar" />
+        sha1="119e861ed04ed59a3e97ef1260fb9bb6ba4d224e">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c0a17a5c662c1d568cd202bb6cd645eae5b7a354\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2a70ae6057f9270e4ab64ceb687d6036eafbcbff.jar" />
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.1_5912099639dd2117e2783c093b42cc7fd4dce5f2\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.0_bcde455265c450d1960beb8aa31253bd8e39a615.jar" />
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.1_45d6c4f68433a7fa964afd59306e0247200e43d6\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="4838df6db988160b107e954e02a745370df543b6">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.0_8db7a3beb81a7de94a7fe6cb09cfd92a034388f8.jar" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_725720d4a32f602c334ac175bc107ac679371019\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_767bc2eb4b8ea81ad4db3ec2cf9a205c70def9e6.jar" />
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_6647aa47f786ae52cf303bbcb86312f76f0478b1\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.0_c2b7b895c2e990c6638cd4d2bc5d7c5c716148ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.0_bea7acccd1d981a723f3a71924255ad330ea9bb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.0_ea42be87f6212dd9645240a124a594d59e97496c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_a694804b9b7e7db2adea1ca07ab3fe015ee06b8e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2e1bfd75a02a0e8b0d0cbd8742a3058e64ac9b12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bab2edf04311f1af64c4dd3b2990942bfbae804e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bc358a64d4dac17a57fda6205d387a908f4814d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_b7a5c2a04ecc00eaafd2f268918f6f3ec744d63a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_655916270db4e3d2f7fbd354c92d6330bce8e629.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_952f132d587d80c29c05c58266c99c2f6f50d968.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_f3b64590515a8ae685f24bf4df0c725592c3c923.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.0_686a65bd50fc07824dd60ab93af2f817be850214.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.0_6a6c83155d3f14e0279f8cb5db8a7269a29fbd7c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_78a8ac0df58ba0193584a647d9faed6ebb333b94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.0_cdd049dcc146e9ea57bf90caea180fdd5866c060.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.0_0b76c56d35e5bee1b41ca6a656d95a12b02124a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_a7df15ac7a0719607d66c68a22c7a7f0cf5a1c0c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.0_70a764aab33d5ed394268f35623adf44d2b15ad8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.0_dbabb6f44f2e870b213459844836f73bcbf5744e.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="930e48ef75c1246a1eea468935c9fac93734c9f9">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8c09d30113a0cb8508ba3890759c1d9cef8a4ccb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f235e670329d0437ea405eb9160fbb4104a77611.jar" />
+        sha1="a3c5a19f64bf3f909b3541633a1bd81f3d264d5f">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\LostandFound\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c09d30113a0cb8508ba3890759c1d9cef8a4ccb\classes.dex" />
     </item>
 
 </items>

@@ -47,7 +47,6 @@ public class viewreport extends AppCompatActivity {
                 farray = new ArrayList<Found>();
                 for (DataSnapshot postSnapshot: dataSnapshot.getChildren()) {
                     f = postSnapshot.getValue(Found.class);
-                  //  Toast.makeText(viewreport.this, "Trying to delete!", Toast.LENGTH_SHORT).show();
                     if (f.name.equals(ff.name) && f.found == ff.found && f.dateFound.equals(ff.dateFound) && f.brand.equals(ff.brand) && f.category.equals(ff.category)
                             && f.Location.equals(ff.Location)) {
                         postSnapshot.getRef().setValue(null);
@@ -57,7 +56,6 @@ public class viewreport extends AppCompatActivity {
                     }
                 }
             }
-
             @Override
             public void onCancelled(DatabaseError databaseError) {
                 Toast.makeText(viewreport.this, "Some error occured...", Toast.LENGTH_SHORT).show();
@@ -76,7 +74,6 @@ public class viewreport extends AppCompatActivity {
                 for (DataSnapshot postSnapshot: dataSnapshot.getChildren()) {
                     f = postSnapshot.getValue(Found.class);
 
-                    //  Toast.makeText(viewreport.this, "Trying to delete!", Toast.LENGTH_SHORT).show();
                     if (f.name.equals(ff.name) && f.found == ff.found && f.dateFound.equals(ff.dateFound) && f.brand.equals(ff.brand) && f.category.equals(ff.category)
                             && f.Location.equals(ff.Location)) {
                         postSnapshot.getRef().setValue(ff);
@@ -137,7 +134,8 @@ public class viewreport extends AppCompatActivity {
         ff.Location = ss.get(4);
         ff.description = ss.get(5);
         ff.user = xx;
-        if (ss.get(7) == "true") {
+        String chch = ss.get(7);
+        if (chch.equalsIgnoreCase("true")) {
             ff.found = true;
         } else {
             ff.found = false;

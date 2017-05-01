@@ -75,14 +75,6 @@ public class MainActivity extends AppCompatActivity {
         t3.setVisibility(View.INVISIBLE);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-               /* username.setVisibility(View.INVISIBLE);
-                password.setVisibility(View.INVISIBLE);
-                button.setVisibility(View.INVISIBLE);
-                button2.setVisibility(View.INVISIBLE);
-                t3.setVisibility(View.VISIBLE);
-                t3.setText("Welcome " + username.getText() + "!");
-                Intent intent = new Intent("com.vishalsah.lostandfound.Main2Activity");
-                startActivity(intent);*/
                 userlogin();
             }
         });

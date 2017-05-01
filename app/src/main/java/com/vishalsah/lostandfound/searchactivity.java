@@ -56,10 +56,11 @@ public class searchactivity extends AppCompatActivity {
         ss.add(farray.get(position).description);
         ss.add(farray.get(position).user);
         int x = farray.get(position).spamcount;
-        if (farray.get(position).found == true)
+        if (farray.get(position).found == true) {
             ss.add("true");
-        else
+        } else {
             ss.add("false");
+        }
         ss.add(String.valueOf(x));
         ss.add(getkey.get(position));
         b.putStringArrayList("get", ss);
@@ -424,7 +425,6 @@ public class searchactivity extends AppCompatActivity {
         firebaseAuth = FirebaseAuth.getInstance();
         if (firebaseAuth.getCurrentUser() == null) {
             finish();
-
         }
         user = firebaseAuth.getCurrentUser();
         checkBox = (CheckBox) findViewById(R.id.checkBox);

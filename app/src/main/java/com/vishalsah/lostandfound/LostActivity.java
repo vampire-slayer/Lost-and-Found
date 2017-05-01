@@ -87,7 +87,6 @@ public class LostActivity extends AppCompatActivity {
                     intent.putExtras(b);
                     startActivity(intent);
                     finish();
-
                 } else Toast.makeText(LostActivity.this, "Could not be added!", Toast.LENGTH_SHORT).show();
             }
         });

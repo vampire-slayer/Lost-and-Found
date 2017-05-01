@@ -34,6 +34,7 @@ public class FoundActivity extends AppCompatActivity {
     private EditText editText3, editText6, editText5, editText7;
     private Spinner spinner;
     private Button button3;
+
     private void dothat() {
         Found u1 = new Found();
         u1.name = editText3.getText().toString();
@@ -50,8 +51,6 @@ public class FoundActivity extends AppCompatActivity {
         u1.user = user.getEmail();
         u1.spamcount = 0;
         if (databaseReference != null) {
-            // editText3.setText("fjhgjgkhj");
-            //   DatabaseReference usersRef = databaseReference.child("found");
             DatabaseReference usersRef = databaseReference.push();
             if (usersRef != null) {
                 DatabaseReference xx = usersRef;
@@ -69,6 +68,7 @@ public class FoundActivity extends AppCompatActivity {
 
         } else Toast.makeText(FoundActivity.this, "Could not be added!", Toast.LENGTH_SHORT).show();
     }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -82,7 +82,6 @@ public class FoundActivity extends AppCompatActivity {
         textView2 = (TextView) findViewById(R.id.textView10);
         textView2.setText("");
         spinner = (Spinner) findViewById(R.id.spinner2);
-
         editText3 = (EditText) findViewById(R.id.editText7);
         editText5 = (EditText) findViewById(R.id.editText8);
         editText6 = (EditText) findViewById(R.id.editText13);
@@ -97,11 +96,12 @@ public class FoundActivity extends AppCompatActivity {
         });
 
     }
-    public String getCurrentDate(){
-        StringBuilder builder=new StringBuilder();
-       // builder.append("Current Date: ");
-        builder.append((datePicker.getDayOfMonth())+"/");//month is 0 based
-        builder.append((datePicker.getMonth() + 1)+"/");
+
+    public String getCurrentDate() {
+        StringBuilder builder = new StringBuilder();
+        // builder.append("Current Date: ");
+        builder.append((datePicker.getDayOfMonth()) + "/");//month is 0 based
+        builder.append((datePicker.getMonth() + 1) + "/");
         builder.append(datePicker.getYear());
         return builder.toString();
     }

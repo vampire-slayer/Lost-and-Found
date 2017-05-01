@@ -15,7 +15,7 @@ public class profileactivity extends AppCompatActivity {
 
     private FirebaseAuth firebaseAuth;
     private TextView textView;
-    private Button button, button16, button17, button18, button19;
+    private Button button, button16, button17, button18, button23;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,6 +32,7 @@ public class profileactivity extends AppCompatActivity {
         button16 = (Button) findViewById(R.id.button16);
         button17 = (Button) findViewById(R.id.button17);
         button18 = (Button) findViewById(R.id.button18);
+        button23 = (Button) findViewById(R.id.button23);
         textView.setText("Welcome " + user.getEmail() + "!");
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -60,6 +61,11 @@ public class profileactivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
+        button23.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent("com.vishalsah.lostandfound.speech_to_text");
+                startActivity(intent);
+            }
+        });
     }
 }

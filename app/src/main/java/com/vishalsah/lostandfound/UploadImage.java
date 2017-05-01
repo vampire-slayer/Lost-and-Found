@@ -47,16 +47,6 @@ public class UploadImage extends AppCompatActivity {
         });
         b2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-            /*    filepath = (Uri) intent.getParcelableExtra(Intent.EXTRA_STREAM);
-                if (filepath != null) {
-                    Toast.makeText(UploadImage.this, "hkhfgjh", Toast.LENGTH_SHORT).show();
-                    try {
-                        Bitmap bitmap = MediaStore.Images.Media.getBitmap(getContentResolver(), filepath);
-                        imageView.setImageBitmap(bitmap);
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-                }*/
                 uploadFile();
             }
         });
@@ -81,8 +71,6 @@ public class UploadImage extends AppCompatActivity {
         intent.setAction(Intent.ACTION_GET_CONTENT);
         intent.setType("image/*");
         startActivityForResult(Intent.createChooser(intent, "Select Picture"), PICK_IMAGE_REQUEST);
-
-     //   startActivityForResult(Intent.createChooser(intent, "Select an image", PICK_IMAGE_REQUEST));
 
     }
     private void uploadFile() {

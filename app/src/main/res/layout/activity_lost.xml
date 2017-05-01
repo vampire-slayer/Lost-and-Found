@@ -15,7 +15,7 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:background="@drawable/ppppp">
+        android:background="@drawable/use4">
 
         <Button
             android:layout_width="wrap_content"
@@ -24,6 +24,7 @@
             android:id="@+id/button9"
             android:layout_below="@+id/editText18"
             android:layout_marginTop="10dp"
+            android:textStyle="bold"
             android:layout_centerHorizontal="true" />
 
         <DatePicker
@@ -101,6 +102,7 @@
             android:layout_marginTop="10dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
+            android:textStyle="bold"
             android:textColor="#437142" />
 
         <TextView
@@ -110,6 +112,7 @@
             android:text="Date Lost :"
             android:id="@+id/textView15"
             android:layout_marginTop="10dp"
+            android:textStyle="bold"
             android:layout_below="@+id/editText16"
             android:layout_alignParentStart="true"
             android:textColor="#437142" />
@@ -121,6 +124,7 @@
             android:text="Medium Text"
             android:id="@+id/textView16"
             android:layout_marginTop="10dp"
+            android:textStyle="bold"
             android:layout_below="@+id/editText16"
             android:layout_alignParentEnd="true" />
 
@@ -132,6 +136,7 @@
             android:id="@+id/textView17"
             android:layout_marginTop="10dp"
             android:layout_alignParentTop="true"
+            android:textStyle="bold"
             android:layout_alignParentStart="true"
             android:layout_alignEnd="@+id/textView14"
             android:background="#b2f1a8a8"
